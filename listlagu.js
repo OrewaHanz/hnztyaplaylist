@@ -7,7 +7,7 @@ const songs = [
     {
         title: "Reminisensi - Insomniacks",
         file: "/audio/reminisensi.mp3",
-        image: "https://telegra.ph/file/a609844fd6f3ab99ac4ef.jpg"
+        image: "/img/insomniacks.jpg"
     },
     {
         title: "Sal Priadi - Gala Bunga",
