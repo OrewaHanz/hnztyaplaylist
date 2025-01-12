@@ -5,6 +5,11 @@ const songs = [
         image: "https://telegra.ph/file/cdc3e5c8b924d57a36060.jpg"
     },
     {
+        title: "Reminisensi - Insomniacks",
+        file: "/audio/reminisensi.mp3",
+        image: "https://telegra.ph/file/a609844fd6f3ab99ac4ef.jpg"
+    },
+    {
         title: "Sal Priadi - Gala Bunga",
         file: "/audio/SalPriadi-Gala-bunga.mp3",
         image: "https://telegra.ph/file/a609844fd6f3ab99ac4ef.jpg"
