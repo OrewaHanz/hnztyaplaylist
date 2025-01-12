@@ -1,8 +1,8 @@
 const songs = [
     {
-        title: "Teramini - Ghea",
-        file: "/audio/Teramini-Ghea.mp3",
-        image: "https://telegra.ph/file/cdc3e5c8b924d57a36060.jpg"
+        title: "Sempurna - Insomnniacks",
+        file: "/audio/sempurna.mp3",
+        image: "/img/sempurna.jpg"
     },
     {
         title: "Reminisensi - Insomniacks",
