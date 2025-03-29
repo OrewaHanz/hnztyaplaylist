@@ -1,8 +1,8 @@
 const songs = [
     {
-        title: "Sempurna - Insomnniacks",
-        file: "/audio/sempurna.mp3",
-        image: "/img/sempurna.jpg"
+        title: "Halu - Feby Putri",
+        file: "/audio/Halu - Feby Putri.mp3",
+        image: "/img/halu.jpg"
     },
     {
         title: "Reminisensi - Insomniacks",
