@@ -5,8 +5,8 @@ const songs = [
         image: "/img/halu.jpg"
     },
     {
-        title: "Reminisensi - Insomniacks",
-        file: "/audio/reminisensi.mp3",
-        image: "/img/insomniacks.jpg"
+        title: "I Wanna Be Yours - Arctic Monkeys",
+        file: "/audio/I Wanna Be Yours.mp3",
+        image: "/img/I Wanna Be Yours.jpg"
     },
 ];
